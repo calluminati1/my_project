@@ -1,0 +1,2 @@
+username = chi02
+password = obi03
